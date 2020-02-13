@@ -5,3 +5,4 @@ Something changed
 使用git status查看当前文件上传状态
 使用git add将要提交的文件上传到暂存区
 使用git commit将暂存区文件提交
+使用git rm删除文件
